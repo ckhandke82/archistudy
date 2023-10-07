@@ -1,18 +1,18 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OrderView"
-    id="id-0552851063bd4da596cad0b415f83947">
+    name="TechnicalView"
+    id="id-e5b32b3e946c4c64bba40ce4de452aea">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5b15ceb9f7a844c8a73425460d77f8cc">
+      id="id-5d26f73c1b1540b39a8373dc4d22f788">
     <bounds
-        x="290"
-        y="199"
+        x="378"
+        y="278"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_id-e368213eaa2240709d77d29f4cee9367.xml#id-e368213eaa2240709d77d29f4cee9367"/>
+        xsi:type="archimate:TechnologyService"
+        href="TechnologyService_id-7c5bc944425e41cfb4d6184e5e5a2763.xml#id-7c5bc944425e41cfb4d6184e5e5a2763"/>
   </children>
 </archimate:ArchimateDiagramModel>
